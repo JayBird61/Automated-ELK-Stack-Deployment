@@ -127,4 +127,9 @@ To install the beats:
 Click "Explore On My Own" and then "Add log data" on the now open Kibana page
 From there, for Filebeat choose "System Logs" and choose your OS. Then follow the onscreen instructions.
       For Metricbeat go back to the "Explore On My Own" page then go to "Add metric data." Choose "Docker Metrics" then your OS and follow the instructions
-Note: at the end of the instructional pages for both Filebeat and Metricbeat, the final step allows you to check that everything is configured properly.
+
+Note: at the end of the instructional pages for both Filebeat and Metricbeat, the final step allows you to check that everything is configured properly. When successful, it will look something like these:
+![Filebeat Success](https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/f1dfaca1826f6fce6a318e386e707592a97e0a22/Successful%20Images/Filebeat%20yaml%20success.PNG)
+![Metricbeat Success](https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/main/Successful%20Images/metricbeat%20success.PNG)
+
+Thank you for viewing my repository! Best of luck and have a great day.
