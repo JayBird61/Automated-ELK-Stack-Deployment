@@ -132,4 +132,4 @@ Note: at the end of the instructional pages for both Filebeat and Metricbeat, th
 ![Filebeat Success](https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/f1dfaca1826f6fce6a318e386e707592a97e0a22/Successful%20Images/Filebeat%20yaml%20success.PNG)
 ![Metricbeat Success](https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/main/Successful%20Images/metricbeat%20success.PNG)
 
-Thank you for viewing my repository! Best of luck and have a great day.
+Thank you for viewing my repository! Best of luck and have a great day!
