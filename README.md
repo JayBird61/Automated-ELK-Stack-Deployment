@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Network Diagram](Diagrams/Updated Network Diagram.PNG)
+![NetworkDiagram](Diagrams/Updated Network Diagram.JPG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. 
 They can be used to either recreate the entire deployment pictured above or alternatively, 
