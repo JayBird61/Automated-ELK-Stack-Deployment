@@ -88,14 +88,14 @@ In order to use the playbook, you will need to have an Ansible control node alre
 configured. Assuming you have such a control node provisioned: 
   
 SSH into the control node and follow the steps below:
-- Copy/curl the [ELK Playbook]((https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/0b19034fd2a1476f01b89bacd8d8cca1a444076f/Ansible/ELK_Playbook_Push.yml) file to /etc/ansible/hosts/roles
+- Copy/curl the [ELK Playbook](https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/0b19034fd2a1476f01b89bacd8d8cca1a444076f/Ansible/ELK_Playbook_Push.yml) file to /etc/ansible/hosts/roles
 - Update the hosts file to include [elk] group
 - Run the playbook, and navigate in a browser to http://[your_ELK_vm_ext_IP]:5601/app/kibana to check that the installation worked as expected.
 - In the browser you should see something that looks similar to ![Kibana](https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/d0b3a07b9e8932f5cc954fe49231d24c4c2b20e0/Successful%20Images/Kibana%20Success%20Edit.png)
   
 Questions:
 -Which file is the playbook?
-  [ELK Playbook]((https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/0b19034fd2a1476f01b89bacd8d8cca1a444076f/Ansible/ELK_Playbook_Push.yml) file to /etc/ansible/hosts/roles
+  [ELK Playbook](https://github.com/JayBird61/Automated-ELK-Stack-Deployment/blob/0b19034fd2a1476f01b89bacd8d8cca1a444076f/Ansible/ELK_Playbook_Push.yml) file to /etc/ansible/hosts/roles
 
 -Where do you copy it? 
   /etc/ansible
